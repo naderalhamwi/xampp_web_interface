@@ -1,6 +1,6 @@
 == Changelog ==
 
-V1.0.0 2024-12-124
+V1.0.0 2024-12-25
 create projects
     - pre created example project
 view projects
