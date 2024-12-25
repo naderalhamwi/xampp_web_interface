@@ -1,0 +1,12 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "My fist project",
+            "date_created": "2024-12-24",
+            "description": "My first php project",
+            "path": "\/Projects\/Myfistproject",
+            "filename": "Myfistproject"
+        }
+    ]
+}

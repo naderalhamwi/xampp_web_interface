@@ -1,0 +1,8 @@
+== Changelog ==
+
+V1.0.0 2024-12-124
+create projects
+    - pre created example project
+view projects
+delete projects
+access database
